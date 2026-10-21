@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="VerificationMonitor/VerificationMonitor.csproj">
+    <Platform Project="x64" />
+  </Project>
+</Solution>
